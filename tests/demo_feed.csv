@@ -1,0 +1,7 @@
+id,name,brand,model,gtin,category,description,image_url,price,currency,url,availability,seller,official,rating,rating_count,spec_Display,spec_Battery
+D1,DEMO Aurora Phone X1,DemoCo,X1,0000000000017,Electronics > Smartphones,Synthetic demo record for UI preview only.,,499.00,USD,https://example.com/democo/aurora-x1,in_stock,DemoCo Store,true,4.4,120,6.1 in OLED,4000 mAh
+D1b,DEMO Aurora Phone X1,DemoCo,X1,0000000000017,Electronics > Smartphones,Synthetic demo record for UI preview only.,,479.00,USD,https://example.com/shopmart/aurora-x1,in_stock,ShopMart,false,4.4,120,6.1 in OLED,4000 mAh
+D2,DEMO Aurora Phone X2,DemoCo,X2,0000000000024,Electronics > Smartphones,Synthetic demo record for UI preview only.,,649.00,USD,https://example.com/democo/aurora-x2,out_of_stock,DemoCo Store,true,4.6,80,6.7 in OLED,5000 mAh
+D3,DEMO Trail Runner Shoe,StrideLab,TR-9,,Apparel > Running Shoes,Synthetic demo record for UI preview only.,,89.50,USD,https://example.com/stridelab/tr9,in_stock,StrideLab,true,4.1,33,,
+D4,DEMO Quiet Over-Ear Headphones,SoundDemo,QH-5,0000000000055,Electronics > Headphones,Synthetic demo record for UI preview only.,,129.00,USD,https://example.com/sounddemo/qh5,in_stock,SoundDemo,true,,0,,30 h
+D5,DEMO Ceramic Pour-Over Set,HearthDemo,,,Kitchen > Coffee,Synthetic demo record for UI preview only.,,,,https://example.com/hearthdemo/pourover,unknown,HearthDemo,true,,0,,

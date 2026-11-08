@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shelfwise · Find any product, buy from the source</title>
+<meta name="description" content="Free product search. Compare products and go straight to official stores and trusted retailers.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230b5d54'/%3E%3Cpath d='M7 11h18M7 17h18M7 23h18' stroke='%23e8b931' stroke-width='3' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="/static/app.css">
+<script src="/static/theme.js"></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="top"><div class="wrap bar">
+  <a class="logo" href="#/">Shelfwise</a>
+  <form class="mini" data-search role="search"><input type="search" name="q" placeholder="Search products" aria-label="Search products" autocomplete="off"></form>
+  <nav aria-label="Main">
+    <a href="#/categories">Browse</a>
+    <a href="#/compare">Compare <span class="badge" id="cmpCount" hidden></span></a>
+    <a href="#/account" id="acct">Sign in</a>
+    <button class="icon" data-act="theme" aria-label="Toggle light or dark mode">◐</button>
+  </nav>
+</div></header>
+<main id="main" class="wrap" tabindex="-1"><div id="app"></div></main>
+<footer class="wrap foot">
+  <p>Shelfwise doesn’t sell anything. Links go to third-party sites, where prices and availability can differ from what we show. Check the seller’s page before you buy.</p>
+  <p id="attrib">Product data comes from open datasets and retailer APIs. Each product page credits its source.</p>
+</footer>
+<div id="modal" class="modal" hidden></div><div id="toast" role="status" aria-live="polite"></div>
+<script src="/static/app.js"></script>
+</body></html>
